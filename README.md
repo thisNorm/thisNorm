@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venome&height=200&text=규범코딩일기&fontAlign=70&color=6A0DAD&stroke=D5006D&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=venome&height=200&text=텍스트&fontAlign=70&color=6A0DAD&stroke=D5006D&strokeWidth=3)
 
 ## Hi there 👋
 
