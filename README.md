@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontAlign=50&color=6A0DAD&stroke=D5006D&strokeWidth=5)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontAlign=50&color=6A0DAD&stroke=E6E6FA&strokeWidth=2)
 
 ## Hi there 👋
 
