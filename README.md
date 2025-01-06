@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venome&text=테스트)
+![header](https://capsule-render.vercel.app/api?type=rect&text=테스트)
 
 ## Hi there 👋
 
