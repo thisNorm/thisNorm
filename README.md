@@ -3,13 +3,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FthisNorm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2 align="center"> 🎨 Stack <br> </p>
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=round-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B400?style=round-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=round-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=round-square&logo=oracle&logoColor=white"/>
   
 [![thisNorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisNorm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
