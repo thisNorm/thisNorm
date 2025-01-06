@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=round-square&logo=oracle&logoColor=white"/>
   
 [![thisNorm's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisNorm)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisNorm)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **thisNorm/thisNorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
