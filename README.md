@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&text=테스트)
+![header](https://capsule-render.vercel.app/api?type=venome&height=300&text=규범코딩&fontAlign=70&color=6A0DAD&stroke=D5006D&strokeWidth=3)
 
 ## Hi there 👋
 
