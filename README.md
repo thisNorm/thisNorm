@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=I%20am%20Venom&text=규범코딩일기&fontAlign=50&color=6A0DAD&stroke=D5006D&strokeWidth=3&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=I%20am%venom&text=규범코딩일기&fontAlign=50&color=6A0DAD&stroke=D5006D&strokeWidth=3&fontSize=40)
 
 ## Hi there 👋
 
