@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venome&color=6A0DAD&stroke=D5006D&height=300&section=header&text=규범코딩일기&fontSize=60"/>
+![header](https://capsule-render.vercel.app/api?type=venome&height=200&text=규범코딩일기&fontAlign=70&color=6A0DAD&stroke=6A0DAD&strokeWidth=3)
 
 ## Hi there 👋
 
