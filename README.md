@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=규범코딩일기&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=venome&color=6A0DAD&stroke=D5006D&height=300&section=header&text=규범코딩일기&fontSize=60" />
 
 ## Hi there 👋
 
