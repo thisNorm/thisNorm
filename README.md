@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venome&height=500&text=gyubeom&fontAlign=70&color=6A0DAD&stroke=D5006D&strokeWidth=3&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=venome&height=500&text=규범코딩일기&fontAlign=70&color=6A0DAD&stroke=D5006D&strokeWidth=3&fontSize=10)
 
 ## Hi there 👋
 
