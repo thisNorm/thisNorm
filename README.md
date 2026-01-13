@@ -23,28 +23,48 @@
 
 ### 🚀 **Tech Stack**
 
-**Backend & Core**
+**Languages**
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-**Infrastructure & Database**
+**Backend & Frameworks**
 <br/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white"/>
 
-**Frontend & Tools**
+**Frontend & Mobile**
 <br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Database & Cloud**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+**Tools & AI Efficiency**
+<br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity-222222?style=for-the-badge&logo=perplexity&logoColor=white"/>
 
 </div>
 
@@ -58,7 +78,7 @@
 
 | Component | Repository & Tech |
 | :--- | :--- |
-| **Backend** | [**deepfake_detection_service_backend**](https://github.com/thisNorm/deepfake_detection_service_backend)<br/>![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white) |
+| **Backend** | [**deepfake_detection_service_backend**](https://github.com/thisNorm/deepfake_detection_service_backend)<br/>![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white) |
 | **Mobile App** | [**deepfake_detection_service_application**](https://github.com/thisNorm/deepfake_detection_service_application)<br/>![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB) ![PyTorch Mobile](https://img.shields.io/badge/PyTorch_Lite-EE4C2C?logo=pytorch&logoColor=white) |
 | **Algorithm** | [**deepfake_detection_service_algorithm**](https://github.com/thisNorm/deepfake_detection_service_algorithm)<br/>![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![WeSpeaker](https://img.shields.io/badge/AI_Model-WeSpeaker-00B294) |
 | **Frontend** | [**deepfake_detection_service_frontend**](https://github.com/thisNorm/deepfake_detection_service_frontend)<br/>![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) |
@@ -74,7 +94,7 @@
 | **[WeGive](https://github.com/thisNorm/WeGive.git)** | 투명성을 강조한 기부 플랫폼 서비스 | `Java` `Spring` |
 | **[HongOpenCV](https://github.com/thisNorm/HongOpenCV.git)** | 멀티프레임 글레어 제거 및 문서 스캔 알고리즘 | `OpenCV` `Python` |
 | **[CodingTest](https://github.com/thisNorm/codingtest.git)** | 알고리즘 문제 풀이 및 효율성 연구 아카이브 | `Algorithm` |
-| **[My Portfolio](https://github.com/thisNorm/my-portfolio.git)** | 개인 포트폴리오 웹사이트 소스코드 | `Web` |
+| **[My Portfolio](https://github.com/thisNorm/my-portfolio.git)** | 개인 포트폴리오 웹사이트 소스코드 | `Next.js` `Sanity` |
 | **[Angular Board](https://github.com/thisNorm/angular-board-app-frontend.git)** | Angular 기반의 게시판 프론트엔드 | `Angular` |
 
 <br/>
@@ -85,7 +105,7 @@
 
 | Organization | Role | Period | Description & Tech |
 | :--- | :--- | :--- | :--- |
-| **[ETRI](https://www.etri.re.kr)**<br/>*(한국전자통신연구원)* | **Research Intern**<br/>(자율형 IoT 연구실) | 2026.01 ~ 2026.02 | • **IoT 시스템 백엔드 아키텍처 설계 및 구현**<br/>• 대용량 센서 데이터 처리 및 API 개발<br/>• `Python` `FastAPI` `AWS` `Docker` |
+| **[ETRI](https://www.etri.re.kr)**<br/>*(한국전자통신연구원)* | **Research Intern**<br/>(자율형 IoT 연구실) | 2026.01 ~ 2026.02 | • **IoT 시스템 백엔드 아키텍처 설계 및 구현**<br/>• 대용량 센서 데이터 처리 및 API 개발<br/>• `Python` `FastAPI` `AWS` |
 
 <br/>
 
