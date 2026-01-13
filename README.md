@@ -88,9 +88,29 @@
 | Organization | Role | Period | Description & Tech |
 | :--- | :--- | :--- | :--- |
 | **[ETRI](https://www.etri.re.kr)**<br/>*(한국전자통신연구원)* | **Research Intern**<br/>(자율형 IoT 연구실) | 2026.01 ~ 2026.02 | • **IoT 시스템 백엔드 아키텍처 설계 및 구현**<br/>• 대용량 센서 데이터 처리 및 API 개발<br/>• `Python` `FastAPI` `AWS` `Docker` |
-| **Company Name**<br/>*(Put Company Name)* | **Backend Intern** | 20XX.XX ~ 20XX.XX | • **실시간 트래픽 분산 처리 로직 개선**<br/>• 레거시 코드 리팩토링 및 테스트 코드 작성<br/>• `Java` `Spring Boot` `MySQL` |
 
 </div>
+
+<br/>
+
+---
+
+### 🏅 **Honors & Awards**
+
+<div align="center">
+
+| Award | Organization | Date | Description |
+| :--- | :--- | :--- | :--- |
+| **🏆 대상 (Grand Prize)** | 홍익대학교<br/>바이오헬스 혁신융합대학 | 2025.12 | **디지털 바이오헬스 종합설계 경진대회**<br/>(Digital Bio-health Capstone Design) |
+| **🏆 대상 (Grand Prize)** | 과학기술정보통신부<br/>세종테크노파크 | 2025.11 | **충청권 ICT 이노베이션스퀘어 S/W 개발 분과**<br/>개발 역량 강화 멘토링 우수 사례 |
+| **🥈 우수상** | 한국정보통신보안윤리학회 | 2025.11 | **"지역혁신 인재양성" 연합 페스티발**<br/>컨퍼런스 및 공모전 |
+| **🥇 최우수상** | 홍익대학교<br/>산학협력단 | 2025.09 | **OpenCV Zoo 기반 영상분석 실무 프로젝트**<br/>머신러닝/딥러닝 기반 영상처리 구현 |
+
+</div>
+
+<br/>
+
+---
 
 <div align="center">
 
