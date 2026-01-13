@@ -9,7 +9,7 @@
 
 <br/>
 
-> **"코딩도 리듬감 있게! 🎶"**<br/>
+> **"Code with Rhythm, Ship with Impact! 🎶"**<br/>
 > 사람들과 소통하며 에너지를 얻는 **ESFP** 백엔드 개발자 **Norm**입니다.<br/>
 > 복잡한 로직을 즐겁게 풀어나가며, 사용자에게 **Impact** 있는 서비스를 만드는 것을 좋아합니다.
 
@@ -82,11 +82,11 @@
 
 ### 📫 **Connect With Me**
 
-<a href="https://thisnorm.dev">
-  <img src="https://img.shields.io/badge/Website-thisnorm.dev-20B2F3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="mailto:your_email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<div align="center">
+  <a href="https://thisnorm.dev">
+    <img src="https://img.shields.io/badge/Website-thisnorm.dev-20B2F3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="mailto:kisook2557@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
