@@ -12,6 +12,7 @@
 > **"Code with Rhythm, Ship with Impact! 🎶"**<br/>
 > 사람들과 소통하며 에너지를 얻는 **ESFP** 백엔드 개발자 **Norm**입니다.<br/>
 > 복잡한 로직을 즐겁게 풀어나가며, 사용자에게 확실한 가치를 전달하는 서비스를 만듭니다.
+> https://thisnorm.dev
 
 <br/>
 
