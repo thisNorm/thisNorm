@@ -97,6 +97,8 @@
 | **[HongOpenCV](https://github.com/thisNorm/HongOpenCV.git)** | 멀티프레임 글레어 제거 및 문서 스캔 알고리즘 | `OpenCV` `Python` |
 | **[CodingTest](https://github.com/thisNorm/codingtest.git)** | 알고리즘 문제 풀이 및 효율성 연구 아카이브 | `Algorithm` |
 | **[My Portfolio](https://github.com/thisNorm/my-portfolio.git)** | 개인 포트폴리오 웹사이트 소스코드 | `Next.js` `Sanity` |
+| **[content-agent](https://github.com/thisNorm/content-agent)** | Notion에 글만 쓰면 블로그·썸네일·SNS 배포까지 자동화되는 콘텐츠 운영 파이프라인 | `TypeScript` `Automation` |
+| **[content-agent-landing](https://github.com/thisNorm/content-agent-landing)** | 콘텐츠 자동화 시스템 B2B 소개 사이트 | `TypeScript` `Next.js` |
 | **[Angular Board](https://github.com/thisNorm/angular-board-app-frontend.git)** | Angular 기반의 게시판 프론트엔드 | `Angular` |
 
 <br/>
